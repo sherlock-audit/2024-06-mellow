@@ -1,0 +1,6 @@
+[submodule "mellow-lrt/lib/forge-std"]
+	path = mellow-lrt/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "mellow-lrt/lib/openzeppelin-contracts"]
+	path = mellow-lrt/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
